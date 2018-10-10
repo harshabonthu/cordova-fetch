@@ -1,6 +1,6 @@
 {
   "name": "cordova-fetch",
-  "version": "1.3.0",
+  "version": "1.3.99",
   "description": "Apache Cordova fetch module. Fetches from git and npm.",
   "main": "index.js",
   "repository": {
